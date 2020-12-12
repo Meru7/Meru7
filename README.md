@@ -26,5 +26,3 @@ Discord - sqmeru#2506
 ## その他
 - [Note](https://note.com/sqmeru)
 - [Qiita](https://qiita.com/sqmeru)
-
-![Its cute](https://media.discordapp.net/attachments/639080557338427412/763790091277172816/image0.png?width=1025&height=47)
