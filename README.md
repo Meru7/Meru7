@@ -1,4 +1,4 @@
-*✨special ✨ repository*
+# **✨special ✨ repository**
 
 ## 参加
 ### Minecraft
