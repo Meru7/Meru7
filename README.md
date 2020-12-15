@@ -3,7 +3,7 @@
 ## 参加
 ### Minecraft
  - New!SpaceServer WikiManeger (2019/12/19 ~ )
-    - CosumoProject (2020/10/19 ~ )
+    - CosumoProject BotDeveloper @CosumoChan(2020/10/19 ~ )
  - SeichiServer BotDeveloper (2020/09/05 ~ 2020/12/12)
 ### Minecraft - ServerSoftware
  - PMMP
