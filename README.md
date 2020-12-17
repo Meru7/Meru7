@@ -19,8 +19,7 @@
 Twitter - [@_Natu9](https://twitter.com/_Natu9)  [@Natu0_day](https://twitter.com/Natu0_day)  
 Discord - sqmeru#2506
 
-基本DiscordはDMを一部のサーバー以外ではフレンドのみの受信にしています。  
-[Twitter](https://twitter.com/_Natu9)か[特定のメールアドレス](piki.0147@gmail.com)までお願いします。
+~~基本DiscordはDMを一部のサーバー以外ではフレンドのみの受信にしています。[Twitter](https://twitter.com/_Natu9)か[特定のメールアドレス](piki.0147@gmail.com)までお願いします。~~
 
 ## その他
 - [Note](https://note.com/sqmeru)
