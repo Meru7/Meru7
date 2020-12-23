@@ -25,6 +25,6 @@ Discord - sqmeru#2506
 - [Note](https://note.com/sqmeru)
 - [Qiita](https://qiita.com/sqmeru)
 
-![Natu`s Github Stats Cord](https://github-readme-stats.vercel.app/api?username=Natu9&show_icons=true&count_private=true&theme=midnight-purple)
+![Natu`s Github Stats Cord](https://github-readme-stats.vercel.app/api?username=Merutan&show_icons=true&count_private=true&theme=midnight-purple)
 
-![Natu`s Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Natu9&layout=compact&theme=midnight-purple)
+![Natu`s Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Merutan&layout=compact&theme=midnight-purple)
