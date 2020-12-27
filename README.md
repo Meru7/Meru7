@@ -1,21 +1,18 @@
 # **✨special ✨ repository**
 
-## 参加
+## Joined
 ### Minecraft
  - New!SpaceServer WikiManeger (2019/12/19 ~ )
     - CosumoProject BotDeveloper @CosumoChan(2020/10/19 ~ )
  - SeichiServer BotDeveloper (2020/09/05 ~ 2020/12/12)
-### Minecraft - ServerSoftware
- - PMMP
-    - PMMP Sample Code (2020/10/31 ~ )
 
-## 言語
+## Language
 どれも勉強中～
  - JavaScript
  - PHP
  - Java
 
-## 連絡先 / リンク
+## Contact Information / Link
 - [Twitter](https://twitter.com/Meru__92?s=09)
 - [Note](https://note.com/sqmeru)
 - [Qiita](https://qiita.com/sqmeru)
