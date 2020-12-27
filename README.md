@@ -15,10 +15,8 @@
  - PHP
  - Java
 
-## 連絡先
-精神崩壊みたいなの起こしてリストカットまでしそうになったのでTwitterは削除しました。連絡はメールアドレスまで。
-
-## その他
+## 連絡先 / リンク
+- [Twitter](https://twitter.com/Meru__92?s=09)
 - [Note](https://note.com/sqmeru)
 - [Qiita](https://qiita.com/sqmeru)
 
