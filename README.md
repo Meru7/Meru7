@@ -1,21 +1,8 @@
-# **✨special ✨ repository**
+⛈️ Live in peace
 
-## Joined
-### Minecraft
- - New!SpaceServer WikiManeger (2019/12/19 ~ )
-    - CosumoProject BotDeveloper @CosumoChan(2020/10/19 ~ )
- - SeichiServer BotDeveloper (2020/09/05 ~ 2020/12/12)
-
-## Language
-どれも勉強中～
- - JavaScript
- - PHP
- - Java
-
-## Contact Information / Link
-- [Twitter](https://twitter.com/Meru__92?s=09)
-- [Note](https://note.com/sqmeru)
-- [Qiita](https://qiita.com/sqmeru)
+- 👾 Apex, Minecraft: #整地鯖
+- 👨‍💻 JavaScript, PHP
+- 🌨️ #宇宙鯖 Wiki・Bot
 
 ![Natu`s Github Stats Cord](https://github-readme-stats.vercel.app/api?username=Merutan&show_icons=true&count_private=true&theme=midnight-purple)
 
