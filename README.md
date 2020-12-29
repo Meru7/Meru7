@@ -1,4 +1,4 @@
-⛈️ Live in peace
+*⛈️ Live in peace*
 
 - 👾 Apex, Minecraft: #整地鯖
 - 👨‍💻 JavaScript, PHP
