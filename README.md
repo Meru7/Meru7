@@ -1,5 +1,3 @@
-*⛈️ Live in peace*
-
 - 👾 Apex, Minecraft: #整地鯖
 - 👨‍💻 JavaScript, PHP
 - 🌨️ #宇宙鯖 Wiki・Bot
