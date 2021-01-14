@@ -1,4 +1,4 @@
-＞＞ [HomePage： Merutan.github](https://merutan.github.io/)  ＜＜  
+＞＞ [HomePage： Merutan.github.io](https://merutan.github.io/)  ＜＜  
 （工事中｜2021/02以降に工事が完了予定）  
 
 ## 言語とか
