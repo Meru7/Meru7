@@ -1,5 +1,6 @@
 ＞＞ [HomePage： Merutan.github.io](https://merutan.github.io/)  ＜＜  
 （工事中｜2021/02以降に工事が完了予定）  
+[上のGitHub Pagesのリポジトリはここよ！シンジくん！](https://github.com/Merutan/Merutan.github.io)  
 
 ## 言語とか
  - PHP
