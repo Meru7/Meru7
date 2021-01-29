@@ -7,6 +7,6 @@
  - JavaScript
 
 ## 活動
- - Minecraft [New!SpaceServer](https://yurisi.space) BotDeveloper
+ - Minecraft [New!SpaceServer](https://yurisi.space) BotDeveloper & IssueManager
 
 ![Natu`s Github Stats Cord](https://github-readme-stats.vercel.app/api?username=Merutan&show_icons=true&count_private=true&theme=midnight-purple)
