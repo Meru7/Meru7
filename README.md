@@ -1,6 +1,6 @@
-＞＞ [HomePage： Merutan.github.io](https://merutan.github.io/)  ＜＜  
+＞＞ [HomePage： Meru7.github.io](https://Meru7.github.io/)  ＜＜  
 （工事中｜2021/02以降に工事が完了予定）  
-[上のGitHub Pagesのリポジトリはここよ！シンジくん！](https://github.com/Merutan/Merutan.github.io)  
+[上のGitHub Pagesのリポジトリはここよ！シンジくん！](https://github.com/Meru7/Meru7.github.io)  
 
 ## 言語とか
  - PHP
@@ -9,4 +9,4 @@
 ## 活動
  - Minecraft [New!SpaceServer](https://yurisi.space) BotDeveloper & IssueManager
 
-![Natu`s Github Stats Cord](https://github-readme-stats.vercel.app/api?username=Merutan&show_icons=true&count_private=true&theme=midnight-purple)
+![Natu`s Github Stats Cord](https://github-readme-stats.vercel.app/api?username=Meru7&show_icons=true&count_private=true&theme=midnight-purple)
